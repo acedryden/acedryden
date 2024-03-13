@@ -19,7 +19,7 @@ I'm Amy Dryden, a Data Enthusiast who loves transforming data sets into stunning
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="50" src="https://banner2.cleanpng.com/20180821/isz/kisspng-postgresql-database-logo-application-software-comp-iterative-consulting-web-development-prototyping-5b7c0d6cf2b7c1.0984725915348565569942.jpg"></code>
-<code><img height="50" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Emblem.png"></code>
+<code><img height="50" src="https://images.ctfassets.net/76f8cs5bg9si/38ggNE1ggnjPLDGP3fV6Sb/1dd26f4f7dcd5767f0362cee8369ac92/Feature-Photo-Tableau.png?w=822&amp;h=580&amp;q=90&amp;fm=png"></code>
 <code><img height="50" src="https://logowik.com/content/uploads/images/looker-by-google-cloud5180.jpg"></code>
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Amplitude_logo.svg/800px-Amplitude_logo.svg.png?20200115143618"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>

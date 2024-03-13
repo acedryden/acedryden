@@ -7,7 +7,7 @@
 </a>
 <br />
 
-Hi,I'm Amy Dryden, a Data Enthusiast who loves transforming data sets into stunning and insightful visualizations and dashboards. Check out some of my favourite projects below: 
+I'm Amy Dryden, a Data Enthusiast who loves transforming data sets into stunning and insightful visualizations and dashboards. Check out some of my favourite projects below: 
 
 1. An exploratory dashboard of Public and Catholic Schools' Enrollment and Graduation rates in Ontario. [Ontario Research Project](https://github.com/acedryden/school_research_project)
 2. A visualization dashboard exploring the Belly Button Biodiversity study, examining the results for each test subject.  [Belly Button Challenge](https://acedryden.github.io/belly-button-challenge/)
